@@ -1,2 +1,3 @@
 # hello-world
-A practice repository
+THE practice repository
+how to git the hub ..
